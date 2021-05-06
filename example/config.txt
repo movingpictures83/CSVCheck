@@ -1,0 +1,2 @@
+Prefix plugins/CSVCheck/example
+Plugin CSVCheck inputfile example.csv outputfile results.txt
